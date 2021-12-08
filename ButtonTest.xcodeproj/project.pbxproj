@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C5702D727614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */; };
+		3C5702D92761539100BA3029 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5702D82761539100BA3029 /* ListView.swift */; };
 		3C744EC9275FE36C007FD3E9 /* ButtonTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C744EC8275FE36C007FD3E9 /* ButtonTestApp.swift */; };
 		3C744ECB275FE36C007FD3E9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C744ECA275FE36C007FD3E9 /* ContentView.swift */; };
 		3C744ECD275FE36D007FD3E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C744ECC275FE36D007FD3E9 /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalisedBackgroundLightDarkView.swift; sourceTree = "<group>"; };
+		3C5702D82761539100BA3029 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		3C744EC5275FE36C007FD3E9 /* ButtonTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ButtonTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C744EC8275FE36C007FD3E9 /* ButtonTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTestApp.swift; sourceTree = "<group>"; };
 		3C744ECA275FE36C007FD3E9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				3C744ED6275FE377007FD3E9 /* ButtonView.swift */,
 				3C8F9D15275FEEC80008CBC0 /* DarkModeToggleView.swift */,
 				3C8F9D17275FFD8D0008CBC0 /* TextSchemView.swift */,
+				3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */,
+				3C5702D82761539100BA3029 /* ListView.swift */,
 				3C744ECC275FE36D007FD3E9 /* Assets.xcassets */,
 				3C744ECE275FE36D007FD3E9 /* Preview Content */,
 			);
@@ -149,7 +155,9 @@
 				3C8F9D18275FFD8D0008CBC0 /* TextSchemView.swift in Sources */,
 				3C744ECB275FE36C007FD3E9 /* ContentView.swift in Sources */,
 				3C744EC9275FE36C007FD3E9 /* ButtonTestApp.swift in Sources */,
+				3C5702D92761539100BA3029 /* ListView.swift in Sources */,
 				3C744ED7275FE377007FD3E9 /* ButtonView.swift in Sources */,
+				3C5702D727614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift in Sources */,
 				3C8F9D16275FEEC80008CBC0 /* DarkModeToggleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
