@@ -25,7 +25,7 @@ struct PersonalisedBackgroundLightDarkView: View {
                     
                 Image(systemName: "guitars.fill" )
                     .font(.system(size: 40))
-                    .foregroundColor(Color("AdaptiveColorText"))
+                    .foregroundColor(Color("AdaptiveColorSystemName"))
             }
         }
     }
