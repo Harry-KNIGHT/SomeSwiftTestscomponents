@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C0440F92763F5BA005842BE /* Sheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0440F82763F5BA005842BE /* Sheet.swift */; };
 		3C5702D727614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */; };
 		3C5702D92761539100BA3029 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5702D82761539100BA3029 /* ListView.swift */; };
 		3C744EC9275FE36C007FD3E9 /* ButtonTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C744EC8275FE36C007FD3E9 /* ButtonTestApp.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C0440F82763F5BA005842BE /* Sheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet.swift; sourceTree = "<group>"; };
 		3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalisedBackgroundLightDarkView.swift; sourceTree = "<group>"; };
 		3C5702D82761539100BA3029 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		3C744EC5275FE36C007FD3E9 /* ButtonTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ButtonTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -68,6 +70,7 @@
 				3C8F9D17275FFD8D0008CBC0 /* TextSchemView.swift */,
 				3C5702D627614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift */,
 				3C5702D82761539100BA3029 /* ListView.swift */,
+				3C0440F82763F5BA005842BE /* Sheet.swift */,
 				3C744ECC275FE36D007FD3E9 /* Assets.xcassets */,
 				3C744ECE275FE36D007FD3E9 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				3C8F9D18275FFD8D0008CBC0 /* TextSchemView.swift in Sources */,
 				3C744ECB275FE36C007FD3E9 /* ContentView.swift in Sources */,
 				3C744EC9275FE36C007FD3E9 /* ButtonTestApp.swift in Sources */,
+				3C0440F92763F5BA005842BE /* Sheet.swift in Sources */,
 				3C5702D92761539100BA3029 /* ListView.swift in Sources */,
 				3C744ED7275FE377007FD3E9 /* ButtonView.swift in Sources */,
 				3C5702D727614E6B00BA3029 /* PersonalisedBackgroundLightDarkView.swift in Sources */,
